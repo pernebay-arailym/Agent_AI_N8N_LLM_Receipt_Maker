@@ -1,0 +1,17 @@
+# Environment variables
+.env
+*.env
+
+# Python virtual env (if any)
+.venv/
+venv/
+
+# Docker volumes (should not be in git)
+volumes/
+volumes/*
+
+# Node stuff (if any)
+node_modules/
+
+# macOS / OS junk
+.DS_Store
